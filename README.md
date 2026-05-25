@@ -16,4 +16,4 @@ Also, if any of the leaks do happen to be included in an update (and more specif
 * Music (The biggest one, includes skins, unreleased and unfinished stuff (especially lms) and rest)
 * Other (Mainly showcases or images that dont find any categories)
 
-If youd like to orginaze them better or show any leaks (NO DIRECT INVOLVEMENT FROM ANY OF THE LEAKERS UNLESS THEY RELEASED IT EARLY BEFOREHAND), as me on discord @randomredcrewmate or DM on X [@RandomRedCrew](https://x.com/RandomRedCrew)
+If youd like to orginaze them better or show any leaks (NO DIRECT INVOLVEMENT FROM ANY OF THE LEAKERS UNLESS THEY RELEASED IT EARLY BEFOREHAND), ask me on discord @randomredcrewmate or DM on X [@RandomRedCrew](https://x.com/RandomRedCrew)
