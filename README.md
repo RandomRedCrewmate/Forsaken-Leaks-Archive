@@ -1,2 +1,5 @@
+![](https://github.com/NMVTeam/Forsaken Leaks Archive/Logo.png)
+
 # Forsaken Leaks Archive
-Archive of any leaks of forsaken (sources may include: animocacy, leakity, collabkidd, etc.) 
+
+Archive of any leaks from forsaken (sources may include: animocacy, leakity, collabkidd, etc.) 
