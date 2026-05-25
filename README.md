@@ -1,4 +1,4 @@
-![](https://github.com/NMVTeam/Forsaken Leaks Archive/Logo.png)
+![](https://github.com/RandomRedCrewmate/Forsaken-Leaks-Archive/Logo.png)
 
 # Forsaken Leaks Archive
 
