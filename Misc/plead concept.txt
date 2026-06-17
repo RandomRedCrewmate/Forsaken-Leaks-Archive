@@ -1,0 +1,25 @@
+Plead - 007n7 Vs. C00lkid
+
+007n7, seeing the direness of the situation, allows greater power to flow through his C00IGUI, partially corrupting him in order to give himself a chance at getting through to COOlkid.
+
+Teleporting away from the map, 007n7 will instead have 4 clones they have full control over. 007n7 will need to use these in order to get close to C00lkid, siphoning off the corruption by staying near him, slowly filling a bar in the process. If one clone dies, another will spawn in a random location, with the real 007n7 spawning in when all clones are dead.
+
+C00lkid on the other hand must kill 007n7 by dealing with his clones first, always having their aura revealed to him. Killing clones fill up his own bar.
+
+At the end of the round timer, the corruption staggers 007n7, teleporting them to the location of the currently controlled clone (if any remain) before knocking them to the floor. If C00lkid catches the survivor before the round ends, he'll pick them up and throw them to the ground, otherwise teleporting behind them if they don't catch 007n7. In both scenarios, the survivor's fate is decided through the metric below;
+
+C00lkid doesn't kill 007n7 + Survivor's bar > Killer's bar: Automatic survivor win; largest reward for survivor
+
+CO0lkid doesn't kill 007n7 + Survivor's bar~ Killer's bar: Killer's choice; larger reward for sparing survivor
+
+C00lkid doesn't kill 007n7 + Survivor's bar < Killer's bar: Killer's choice; equal reward for each option
+
+CO0lkid does kill 007n7 + Survivor's bar > Killer's bar:
+
+Killer's choice; equal reward for each option
+
+CO0lkid does kilf 007n7 + Survivor's bar ~ Killer's bar: Killer's choice; larger reward for killing survivor
+
+C00lkid does kill 007n7 + Survivor's bar < Killer's bar:
+
+Automatic killer win; largest reward for killer
